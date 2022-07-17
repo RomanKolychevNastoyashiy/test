@@ -1,0 +1,16 @@
+.header	{
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: darkslateblue;
+	padding-left: 244px;
+}
+.logo h1 {
+	font-size: 300%;
+	color: #fff
+;	font-style: none;
+	padding-top: 15px;
+}
+.slogan	{
+	color: #999;
+	padding-bottom: 25px
+}
